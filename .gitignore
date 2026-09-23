@@ -22,3 +22,6 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 lucidex-*.tar
 
+
+# Lucide icon data: downloaded by `mix lucidex.download`, bundled only in the Hex package.
+/priv/icon-nodes.json
