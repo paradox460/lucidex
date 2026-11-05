@@ -1,3 +1,5 @@
+> **Renamed to [iconex](https://github.com/paradox460/iconex).** This repository is archived and the `lucidex` Hex package is retired. Iconex adds IBM Carbon icons; see its README's "Migrating from lucidex" section.
+
 # Lucidex
 
 [Lucide](https://lucide.dev) icons for Phoenix, delivered as an SVG sprite that
